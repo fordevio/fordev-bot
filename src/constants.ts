@@ -1,0 +1,1 @@
+export const SLACK_URL="https://join.slack.com/t/fordev-io/shared_invite/zt-37ixcb48j-o9AnvibyCSc0PCRQdIZIHg"
